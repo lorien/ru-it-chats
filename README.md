@@ -63,7 +63,7 @@
 | **Hexlet** |  | CS, Java, Ruby, PHP, JS | Slack: http://slack-ru.hexlet.io/ |  |
 | **How Games are made** |  | GameDev | Slack: http://hgam-invite.herokuapp.com/ |  |
 | **iOS Developers** |  | Русскоговорящее сообщество iOS-разработчиков | Telegram: https://telegram.me/ios_ru |  |
-| **ITChat** |  | Web scraping, Python | Skype: http://tinyurl.com/itchatnew |  |
+| **ITForge** |  | Web scraping, Python | Telegram: https://t.me/itforge |  |
 | **JavaChat** |  | Java, JVM | Skype: http://bit.ly/javachatru |  |
 | **Java talks BY** |  | Java, JVM, Software Design | Skype: http://bit.ly/javatalks-by |  |
 | **Java Professionals By** |  | Java, JVM | Gitter: https://gitter.im/javaby/chat |  |
